@@ -6,8 +6,8 @@
 
 flag: hgame{fUnnyJavascript&FunnyM0taG4me}
 
-docker镜像发布于DockerHub：`randark/2023-hgame-week1-classic_childhood_game:master`
+docker镜像发布于DockerHub：`randark/2023-hgame-week1-web-classic_childhood_game:master`
 
-源码储存于Github：https://github.com/CTF-Archives/2023-hgame-week1-classic_childhood_game
+源码储存于Github：https://github.com/CTF-Archives/2023-hgame-week1-web-classic_childhood_game
 
 原作者信息：https://github.com/ek1ng/My-CTF-Challenges/tree/main/HGAME2023-Classic%20Childhood%20Game
